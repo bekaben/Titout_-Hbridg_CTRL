@@ -8,15 +8,9 @@ This project is done to help students understand how to build a Tiny Tapeout cir
 
 In this example, we explain the workflow for obtaining the GDS files, starting with the Wokwi template, drawing the logic cronogram, arriving at GitHub, and generating the manufacturing files.
 
-## Wokwi Projects
-
-Edit the [info.yaml](info.yaml) and change the `wokwi_id` to the ID of your Wokwi project. You can find the ID in your project's URL; it's the big number after `wokwi.com/projects/`.
+This is a Wokwi tutorial project. All the needed information is in the [info.yaml](info.yaml). Change the `wokwi_id` to the ID of your Wokwi project. You can find the ID in your project's URL; it's the big number after `wokwi.com/projects/`.
 
 The GitHub action will automatically fetch the digital netlist from Wokwi and build the ASIC files.
-
-## Enable GitHub actions to build the results page
-
-- [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
 
 ## Resources
 
