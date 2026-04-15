@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This logic circuit controls the H-bridge for a DC motor. The Dir input logical pin controls the rotation direction. the En digital input is used to shutdown or shutOn the motor.
 
 ## How to test
 
-Explain how to use your project
+En = OFF, En = 1 ON
+Dir=0: Left; Dir=1: Right, but this depends on how you have wired your motor.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 Transistors selected depending on motor size and required current.
