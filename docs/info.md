@@ -20,7 +20,7 @@ The logical system below has a Dir signal input to control the motor direction o
 <img alt="Controler to be implement within TinyTapout chip" src="./hbridgeCTRL.jpg" width=500 height=500>
 <br>
 <br>
-<img alt="H-Bridge general structure" src="./truthtableHbridge.jpg" width=500 height=500>
+<img alt="H-Bridge general structure" src="./truthtableHbridgeCTRL.jpg" width=500 height=500>
 <br>
 
 ## How to test
