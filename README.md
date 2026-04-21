@@ -13,7 +13,6 @@ The example URL: https://wokwi.com/projects/461308618838654977
 
 ## Resources
 
-- [Workshop presentation](docs/presentation.pdf)
 - [FAQ](https://tinytapeout.com/faq/)
 - [Digital design lessons](https://tinytapeout.com/digital_design/)
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
