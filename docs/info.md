@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 This logic circuit controls the H-bridge for a DC motor. The Dir input logical pin controls the rotation direction. The En digital input is used to shut down or turn on the motor.
-<img alt="H-Bridge general structure" src="./hbridge.jpg">
+<img alt="H-Bridge general structure" src="./hbridge.jpg" width=500 height=500>
 ## How to test
 
 En = OFF, En = 1 ON
